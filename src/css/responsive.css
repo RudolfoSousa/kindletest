@@ -1,0 +1,32 @@
+@media(max-width: 1213px){
+	.left-int{
+		width: 145%;
+		padding: 0;
+	}
+	#btn-home{
+		margin: 0;
+	}
+}
+@media(max-width: 1095px){
+	.left-int{
+		position: initial;
+	}
+	#home #left{
+		float: none;
+		width: 100%;
+	}
+	.left-int{
+		width: 100%;
+	}
+	#home img[src="img/opcaob.png"]{
+		float: none;
+		width: 100%;
+	}
+	#home{
+		padding: 0;
+	}
+	.box-plan-left,
+	.box-plan-right{
+		width: 49%;
+	}
+}
