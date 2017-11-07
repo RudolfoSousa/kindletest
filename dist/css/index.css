@@ -101,6 +101,9 @@ nav .adjust{
 	border-bottom: 1px solid rgb(211, 216,220);
 	padding-bottom: 1rem;
 }
+nav .flex{
+	align-items: center;
+}
 #asso{
 	clear: both;
 	padding: 4rem 0;
